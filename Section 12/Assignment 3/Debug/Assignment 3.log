@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\daran\Desktop\Complete modern c++\Section 12\Assignment 3\main.cpp(79,23): warning C4018: '>': signed/unsigned mismatch
+C:\Users\daran\Desktop\Complete modern c++\Section 12\Assignment 3\main.cpp(129): message : see reference to function template instantiation 'std::pair<char *,char *> MinMax<3>(const char *(&)[3])' being compiled
+  Assignment 3.vcxproj -> C:\Users\daran\Desktop\Complete modern c++\Section 12\Assignment 3\Debug\Assignment 3.exe

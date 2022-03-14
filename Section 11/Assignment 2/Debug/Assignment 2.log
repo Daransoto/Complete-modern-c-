@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\daran\Desktop\Complete modern c++\Section 11\Assignment 2\main.cpp(50,18): warning C4244: 'initializing': conversion from 'uintmax_t' to 'int', possible loss of data
+  Assignment 2.vcxproj -> C:\Users\daran\Desktop\Complete modern c++\Section 11\Assignment 2\Debug\Assignment 2.exe
