@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\daran\Desktop\Complete modern c++\Section 12\Assignment 5\main.cpp(21,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\daran\Desktop\Complete modern c++\Section 12\Assignment 5\main.cpp(23,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\daran\Desktop\Complete modern c++\Section 12\Assignment 5\main.cpp(25,10): warning C4018: '<': signed/unsigned mismatch
+C:\Users\daran\Desktop\Complete modern c++\Section 12\Assignment 5\main.cpp(29,9): warning C4018: '<': signed/unsigned mismatch
+  Assignment 5.vcxproj -> C:\Users\daran\Desktop\Complete modern c++\Section 12\Assignment 5\Debug\Assignment 5.exe
